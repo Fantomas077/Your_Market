@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xty4Wl+al3mIaX2zPN4UeRe1HJUv2E1tdUd+ndBeBUGDSixJAVxOeJjwM0wwQgGUFjLettPSzCD1fLQO/MB1ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Athlon\\Documents\\C# revisions\\Your_Market\\Your_Market\\Your_Market.iOS\\Your_Market.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Athlon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Athlon\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Athlon\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

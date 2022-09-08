@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Your_Market.Views.index" BackgroundImageSource="bilder.jpeg">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".10*"/>
+                <RowDefinition/>
+                <RowDefinition Height="120"/>
+            </Grid.RowDefinitions>
+
+            <IndicatorView HorizontalOptions="CenterAndExpand" VerticalOptions="Center" IndicatorColor="LightGray" SelectedIndicatorColor="Red" Grid.Row="0" IndicatorsShape="Circle">
+                
+            </IndicatorView>
+
+            <BoxView Grid.Row="0" Color="BlanchedAlmond"/>
+
+            <StackLayout Grid.Row="2" BackgroundColor="Transparent" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                <Button Margin="0,0,30,0" Text="Registrieren" TextColor="White" Grid.Row="2" FontAttributes="Bold" BorderColor="Transparent"   BackgroundColor="Transparent"  BorderWidth="0" HorizontalOptions="StartAndExpand" FontSize="16" VerticalOptions="Center"/>
+                <Button Text="Einloggen" TextColor="White" Grid.Row="2" FontAttributes="Bold" BorderColor="Transparent" BackgroundColor="Transparent"  BorderWidth="0" HorizontalOptions="EndAndExpand" FontSize="16" VerticalOptions="Center"/>
+
+
+            </StackLayout>
+            <StackLayout Grid.Row="2" Margin="20,70,0,0" HorizontalOptions="Center" VerticalOptions="Center">
+                <Button Text="Über uns" TextTransform="Lowercase" TextColor="White" Grid.Row="2" FontAttributes="Italic" BorderColor="Transparent"  BackgroundColor="Transparent"  BorderWidth="0" HorizontalOptions="Start" FontSize="12" VerticalOptions="Center"/>
+            </StackLayout>
+        </Grid>
+
+       
+    </ContentPage.Content>
+</ContentPage>

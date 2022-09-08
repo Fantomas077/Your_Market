@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdCAK6dStpEWUBZnrcxJV9i59f1EYKrScFWPb7yCZ8YonRJW5cBotMe0URqn4XJ2xYdvtZfuRg1Wcu2KhWWlHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Athlon\\Documents\\C# revisions\\Your_Market\\Your_Market\\Your_Market\\Your_Market.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Athlon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Athlon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Athlon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Athlon\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Athlon\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

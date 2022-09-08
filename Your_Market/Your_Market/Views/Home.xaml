@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Your_Market.Views.Home" BackgroundColor="#151e34">
+    <ContentPage.Content>
+     
+        
+        <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".40*"/>
+                <RowDefinition Height=".20*"/>
+                <RowDefinition Height="*"/>
+                
+                <RowDefinition Height="*" />
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+
+
+            </Grid.RowDefinitions>
+
+
+
+            <BoxView Grid.Row="0" Color="#E2AA18" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+            <Button  Text="Damen" Grid.Row="0" HorizontalOptions="Start" VerticalOptions="Center" BackgroundColor="#E2AA18"  BorderWidth="0" BorderColor="Transparent" />
+            <Button Text="Herren" Grid.Row="0" HorizontalOptions="Start" Margin="80,0,0,0" VerticalOptions="Center" BackgroundColor="#E2AA18"  BorderWidth="0" BorderColor="Transparent"/>
+            <Button Text="Kinder" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="#E2AA18"   BorderWidth="0" BorderColor="Transparent"/>
+            <ImageButton Source="profil.png" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Grid.Row="0"  BackgroundColor="#E2AA18" Margin="0,0,70,0"/>
+            <ImageButton Source="herz1.png" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Grid.Row="0"  BackgroundColor="#E2AA18" Margin="0,0,40,0"/>
+            <ImageButton Source="hinzufugen.png" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Grid.Row="0"  BackgroundColor="#E2AA18" Margin="0,0,10,0"/>
+
+
+
+
+
+            <BoxView Grid.Row="1" Color="#e2aa18"/>
+
+            <Button Text="Bekleidung" Grid.Row="1" FontAttributes="Bold" BorderColor="Transparent" BackgroundColor="#E2AA18" BorderWidth="0" HorizontalOptions="Start" FontSize="12" VerticalOptions="Center" />
+            <Button Text="Schuhe" Grid.Row="1" FontAttributes="Bold" BorderColor="Transparent" Margin="85,0,0,0" BackgroundColor="#E2AA18" BorderWidth="0" HorizontalOptions="Start" FontSize="12" VerticalOptions="Center" />
+            <Button Text="Marken" Grid.Row="1" FontAttributes="Bold" BorderColor="Transparent" Margin="10,0,0,0"  BackgroundColor="#E2AA18" BorderWidth="0" HorizontalOptions="Center" FontSize="12" VerticalOptions="Center" />
+           
+            <SearchBar  Placeholder=" suchen" Grid.Row="1" HorizontalOptions="End" VerticalOptions="Center" WidthRequest="140" BackgroundColor="Silver" Margin="10,2,0,2" />
+
+
+            <BoxView Grid.Row="2" Color="#e2aa18" Margin="0,0,0,0"/>
+            
+
+            <Image Source="image.png" Grid.Row="2" VerticalOptions="FillAndExpand" HorizontalOptions="EndAndExpand" Aspect="AspectFill" WidthRequest="222" Margin="0,60,0,0"/>
+            <Label Text="Time for new style" FontSize="16" Grid.Row="2" HorizontalOptions="StartAndExpand" HorizontalTextAlignment="Center" VerticalOptions="Center" FontAttributes="Bold" Margin="10,0,0,0"/>
+            <Label Text="suchst du nach was besonderes "  Grid.Row="2" HorizontalOptions="StartAndExpand"  VerticalOptions="Center" FontAttributes="Bold" Margin="0,35,0,0" FontSize="11" />
+            <Button TextTransform="None" Text="jetzt endecken"  CornerRadius="15" FontSize="12" Grid.Row="2" BackgroundColor="#E08213" HorizontalOptions="Start" VerticalOptions="Center" Margin="10,120,10,10" WidthRequest="130" HeightRequest="35"/>
+
+
+
+
+
+            <ScrollView Grid.Row="3" Orientation="Horizontal" >
+
+                <StackLayout Grid.Row="3" Orientation="Horizontal" >
+                    <Image Source="image1.png " Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="FillAndExpand"/>
+                    <Image Source="image2.png " Grid.Row="3" HorizontalOptions="CenterAndExpand" VerticalOptions="FillAndExpand" Aspect="AspectFill"/>
+                    <Image Source="image3.png " Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" Aspect="AspectFill"/>
+                    <Image Source="image8.png " Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" Aspect="AspectFill"/>
+                    <Image Source="image9.png " Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand"  Aspect="AspectFill"/>
+                    <Image Source="image12.png " Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" Aspect="AspectFill"/>
+
+
+                </StackLayout>
+            </ScrollView>
+
+
+            <BoxView Grid.Row="4" Color="#518545"/>
+
+           
+
+            <Image Source="image14.jpg" Grid.Row="4" HorizontalOptions="EndAndExpand" WidthRequest="150" Aspect="AspectFill"/>
+            <Label FontSize="20" Text="Sommer Style ist out" Margin="0,0,0,60" Grid.Row="4" HorizontalTextAlignment="Center" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold" />
+            <Label Text="Die Beste Style nur für dich" Margin="10,60,0,50" Grid.Row="4" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold" />
+
+            <Button TextTransform="None" Text="jetzt endecken"  CornerRadius="15" FontSize="12" Grid.Row="4" BackgroundColor="#E08213" HorizontalOptions="Start" VerticalOptions="Center" Margin="20,120,10,10" WidthRequest="130" HeightRequest="35"/>
+
+
+
+
+
+           
+          
+
+           
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

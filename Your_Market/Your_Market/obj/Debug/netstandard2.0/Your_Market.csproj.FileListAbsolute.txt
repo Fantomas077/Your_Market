@@ -1,0 +1,17 @@
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\bin\Debug\netstandard2.0\Your_Market.deps.json
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\bin\Debug\netstandard2.0\Your_Market.dll
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\bin\Debug\netstandard2.0\Your_Market.pdb
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.csproj.AssemblyReference.cache
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.AssemblyInfoInputs.cache
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.AssemblyInfo.cs
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.csproj.CoreCompileInputs.cache
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.dll
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\refint\Your_Market.dll
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Your_Market.pdb
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\ref\Your_Market.dll
+C:\Users\Athlon\Documents\C# revisions\Your_Market\Your_Market\Your_Market\obj\Debug\netstandard2.0\Views\index.xaml.g.cs
